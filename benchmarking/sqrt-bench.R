@@ -11,4 +11,6 @@ bm
 
 tibble::glimpse(bm)
 
-plot(bm)  # requires tidyr and ggbeeswarm
+plot(bm)  # requires tidyr,
+          # ggplot2,
+          # and ggbeeswarm
